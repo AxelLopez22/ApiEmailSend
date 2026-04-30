@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VICTUS\\Desktop\\Proyectos\\ApiCorreos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E73D25-735E-42C6-85D3-260262755FDA}|ApiCorreos.csproj|c:\\users\\victus\\desktop\\proyectos\\apicorreos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5E73D25-735E-42C6-85D3-260262755FDA}|ApiCorreos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E73D25-735E-42C6-85D3-260262755FDA}|ApiCorreos.csproj|c:\\users\\victus\\desktop\\proyectos\\apicorreos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5E73D25-735E-42C6-85D3-260262755FDA}|ApiCorreos.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E73D25-735E-42C6-85D3-260262755FDA}|ApiCorreos.csproj|c:\\users\\victus\\desktop\\proyectos\\apicorreos\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E73D25-735E-42C6-85D3-260262755FDA}|ApiCorreos.csproj|solutionrelative:services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E73D25-735E-42C6-85D3-260262755FDA}|ApiCorreos.csproj|c:\\users\\victus\\desktop\\proyectos\\apicorreos\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E73D25-735E-42C6-85D3-260262755FDA}|ApiCorreos.csproj|solutionrelative:controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E73D25-735E-42C6-85D3-260262755FDA}|ApiCorreos.csproj|c:\\users\\victus\\desktop\\proyectos\\apicorreos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E73D25-735E-42C6-85D3-260262755FDA}|ApiCorreos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E73D25-735E-42C6-85D3-260262755FDA}|ApiCorreos.csproj|c:\\users\\victus\\desktop\\proyectos\\apicorreos\\models\\clienteconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5E73D25-735E-42C6-85D3-260262755FDA}|ApiCorreos.csproj|solutionrelative:models\\clienteconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyectos\\ApiCorreos\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyectos\\ApiCorreos\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T03:21:25.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyectos\\ApiCorreos\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyectos\\ApiCorreos\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T03:21:23.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyectos\\ApiCorreos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyectos\\ApiCorreos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:53:05.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyectos\\ApiCorreos\\Models\\ClienteConfig.cs",
+              "RelativeDocumentMoniker": "Models\\ClienteConfig.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyectos\\ApiCorreos\\Models\\ClienteConfig.cs",
+              "RelativeToolTip": "Models\\ClienteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:49:25.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyectos\\ApiCorreos\\Services\\EmailServices.cs",
+              "RelativeDocumentMoniker": "Services\\EmailServices.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyectos\\ApiCorreos\\Services\\EmailServices.cs",
+              "RelativeToolTip": "Services\\EmailServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:48:47.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\Proyectos\\ApiCorreos\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\Proyectos\\ApiCorreos\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "Controllers\\EmailController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T03:48:13.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
