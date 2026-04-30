@@ -9,7 +9,7 @@ namespace ApiCorreos.Services
     public class EmailServices
     {
 
-        private readonly string _apiKey = "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";
+        private readonly string _apiKey = "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";
         public async Task EnviarCorreo(List<string> destinos, EmailRequest request) 
         {
             try
