@@ -8,13 +8,12 @@ namespace ApiCorreos.Services
 {
     public class EmailServices
     {
-
-        private readonly string _apiKey = "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";
         public async Task EnviarCorreo(List<string> destinos, EmailRequest request) 
         {
             try
             {
-                var client = new SendGridClient(_apiKey);
+                var apiKey = Environment.GetEnvironmentVariable("SENDGRID_API_KEY");
+                var client = new SendGridClient(apiKey);
     
                 var from = new EmailAddress("designerweb1222@gmail.com", "Mi API");
     
