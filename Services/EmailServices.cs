@@ -31,6 +31,8 @@ namespace ApiCorreos.Services
                         <hr style='border:none; border-top:1px solid #eee; margin:20px 0;' />
         
                         <p><strong>👤 Nombre:</strong><br /> {request.Nombre}</p>
+
+                        <p><strong>📞 Telefono:</strong><br /> {request.Numero}</p>
                         
                         <p><strong>📧 Correo:</strong><br /> 
                         <a href='mailto:{request.Correo}' style='color:#3498db; text-decoration:none;'>
