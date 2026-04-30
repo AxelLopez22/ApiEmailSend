@@ -16,6 +16,17 @@ builder.Services.Configure<List<ClienteConfig>>(
     builder.Configuration.GetSection("ClientesEmail")
 );
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll",
+        policy =>
+        {
+            policy.AllowAnyOrigin()
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
+        });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
